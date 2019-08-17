@@ -1,5 +1,20 @@
 in **extract_z_axis.py**
 
+- raw_sample
+
+>绘制一个采样切面
+
+![](slice.png)
+
+
+- drawSegmentFractal
+
+>绘制分段分形插值, 并且保存成图片
+
+![](6-6.png)
+![](9-4.png)
+
+
 - fractal_interpolation_demo
 
 >绘制不同的样本点下分形插值
@@ -15,19 +30,10 @@ in **extract_z_axis.py**
 ![](combine-15.png)
 ![](combine-20.png)
 
-- raw_sample
-
->绘制一个采样切面
-
-![](slice.png)
 
 
-- drawSegmentFractal
 
->绘制分段分形插值, 并且保存成图片
 
-![](fractal-15.png)
-![](fractal-20.png)
 
 
 ------

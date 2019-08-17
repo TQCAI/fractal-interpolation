@@ -236,7 +236,8 @@ def drawSegmentFractal():
 
 
 if __name__ == '__main__':
-    fractal_interpolation_demo()
+    drawSegmentFractal()
+    # fractal_interpolation_demo()
     # combine_demo()
     # raw_sample()
     # drawSegmentFractal()
